@@ -17,7 +17,7 @@ If the count becomes **3 or more**, we **skip adding** that character to the res
 ### Steps:
 - Use a `StringBuilder` for efficient string manipulation.
 - Keep a counter for repeated characters.
-- Append only if the counter is less than 3.
+- Append only if the counter is less than 3..
 
 ---
 
